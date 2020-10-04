@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SwiftUI 2.0**
 
-- 📝 I regulary write articles on [sunggweon.dev](sunggweon.dev)
+- 📝 I regulary write articles on [sunggweon.dev](https://sunggweon.dev)
 
 - 💬 Ask me about **Swift**
 
