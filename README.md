@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift**
 
-- 📫 How to reach me **gyomouyoted@gmail.com**
+- 📫 How to reach me **gyomuyoted@gmail.com**
   
   
 <h3 align="left">Languages and Tools:</h3>
