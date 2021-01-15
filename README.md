@@ -7,5 +7,5 @@
 
 - 💬 Ask me about **Swift**
 
-- 📫 How to reach me **gyomuyoted@gmail.com**
+- 📫 How to reach me **devted@protonmail.com**
   
