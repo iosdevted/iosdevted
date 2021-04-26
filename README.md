@@ -4,7 +4,7 @@
 
 ## 📫 How to reach me
 
-- [My Blog][personal-blog]
+- [Blog][personal-blog]
 - [Portfolio][portfolio]
 - [Today I Learned][today-i-learned]
 - [LinkedIn][linkedin-profile]
