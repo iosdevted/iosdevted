@@ -71,15 +71,15 @@
       animation: wait 12.5s, fade-in-out 1.5s 12.5s;
     }
 
-    .typing-7 {
+    <!-- .typing-7 {
       opacity: 0;
       animation: wait 15s, fade-in-out 1.5s 15s;
-    }
+    } -->
 
-    .msg-7 {
+    <!-- .msg-7 {
       animation: wait 16.7s, msg-6 0.2s 14.2s;
     }    
-    
+     -->
     @keyframes wait {
       0%,
       100% {
@@ -164,7 +164,7 @@
       }
     }
 
-    @keyframes msg-7 {
+    <!-- @keyframes msg-7 {
       0% {
         opacity: 0;
         transform: translate(10px, 341px);
@@ -174,7 +174,7 @@
         transform: translate(10px, 336px);
       }
     }    
-    
+     -->
     @media (prefers-color-scheme: dark) {
       .bubble {
         fill: #3b3b3d;
@@ -398,7 +398,7 @@
   
 
   <!-- typing 6 -->
-  <g transform="translate(10, 336)" class="typing-7">
+  <!-- <g transform="translate(10, 336)" class="typing-7">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -412,11 +412,12 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-  </g>
+  </g> -->
 
   <!-- Have a great... -->
-  <g transform="translate(10, 336)" class="msg-7">
+  <!-- <g transform="translate(10, 336)" class="msg-7">
     <rect width="70" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Ciao! </text>
-  </g>
+  </g> -->
+
 </svg>
