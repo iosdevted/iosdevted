@@ -1,4 +1,4 @@
-[![](chat.svg)](https://twitter.com/deep_algo)
+[![](chat.svg)](https://www.linkedin.com/in/sunggweon-hyeong/)
 
 ## 📫 How to reach me
 
