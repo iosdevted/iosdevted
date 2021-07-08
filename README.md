@@ -1,6 +1,13 @@
 [![](chat.svg)](https://www.linkedin.com/in/sunggweon-hyeong/)
 
-## 🧑‍💻 My Skill
+## 📫 How to reach me
+
+- [Blog][personal-blog]
+- [Portfolio][portfolio]
+- [Today I Learned][today-i-learned]
+- [LinkedIn][linkedin-profile]
+
+## 🧑‍💻 My Skills
 <table><tr><td valign="top" width="33%">
 
 ### iOS
@@ -46,13 +53,6 @@
 </div>
 
 </td></tr></table> <br/>  
-
-## 📫 How to reach me
-
-- [Blog][personal-blog]
-- [Portfolio][portfolio]
-- [Today I Learned][today-i-learned]
-- [LinkedIn][linkedin-profile]
 
 ## 📊 My coding stats
 
