@@ -1,10 +1,6 @@
-[![](chat.svg)](https://www.linkedin.com/in/sunggweon-hyeong/)
-
 ## 📫 How to reach me
 
 - [Blog][personal-blog]
-- [Portfolio][portfolio]
-- [Today I Learned][today-i-learned]
 - [LinkedIn][linkedin-profile]
 
 ## 📊 My coding stats
